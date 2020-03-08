@@ -9,7 +9,11 @@
   
   
   <body style= "padding: 0; padding: 0;">
+<<<<<<< HEAD
   <img src="https://i.ibb.co/YDNdTng/star-banner-png-6-transparent.png" alt=" Red Star Banner"></a>
+=======
+  <img scr="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg">
+>>>>>>> 43eb3bc30b2f1ea117a8c75ea5910cfb3e467dd8
   <h1>Lucha Libre!</h1>
   <p>Experience 3 Bone-Crushing Hour</p>
   </body>
